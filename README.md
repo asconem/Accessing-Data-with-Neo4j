@@ -1,0 +1,1 @@
+Uses Neo4j’s NoSQL graph-based data store to build an embedded Neo4j server, store entities and relationships, and develop queries.
